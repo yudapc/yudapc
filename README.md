@@ -1,9 +1,7 @@
 # Hi there, I'm Yuda Cogati 👋
-- 📫 How to reach me: email me at [yuda.pc@gmail.com][Email]
 
 ### Connect with me!
 
-[<img align="left" alt="yuda.cogati.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="Yuda Cogati | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Yuda Cogati | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
